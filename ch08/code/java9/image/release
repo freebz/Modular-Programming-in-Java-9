@@ -1,0 +1,2 @@
+JAVA_VERSION="9.0.4"
+MODULES="java.base java.logging java.xml java.prefs java.datatransfer java.desktop packt.contact javafx.base jdk.jsobject javafx.graphics javafx.controls packt.sortutil packt.addressbook.lib packt.addressbook.ui packt.sort.javasort packt.sort.bubblesort"
